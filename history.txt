@@ -1,0 +1,10 @@
+    1  ls
+    2  mkdir docker-elk
+    3  cd docker-elk/
+    4  ls
+    5  git clone https://github.com/deviantony/docker-elk.git
+    6  cd docker-elk/
+    7  docker-compose up setup
+    8  docker-compose up
+    9  help 
+   10  history > history.txt
