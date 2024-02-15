@@ -114,6 +114,7 @@
 
 
 * Attack Type: [Cluster Bomb](https://www.youtube.com/watch?v=LBG_n9fr8sM&t=1546s)
+* [FoxyProxy Configuracion](https://albertoestrada.es/hacking/foxyproxy/)
 
 ![alt text](image-25.png)
 
@@ -130,10 +131,10 @@
 
 | POS 1  | POS 2  | POS 3  | POS 4  | POS 5  | POS 6  | POS 7  | POS 8  | POS 9  | POS 10 | POS 11 | POS 12 | POS 13 | POS 14 | POS 15 | POS 16 | POS 17 | POS 18 | POS 19 | POS 20 |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
-| Valor1 | e | 7| p | 2 | v | Valor7 | f | b | 4| d| 3| q| r| i| q| s| z| v| o|
+| p | 7| e|  l| b| f | h | t | t | 2| 0| 6| 1| 6| 6| h| u| n| j| w|
 
-663
+p7elbfhtt206166hunjw
 
-e7p2vfb4d3qriqszvo
+![alt text](image-28.png)
 
-![alt text](image-27.png)
+
